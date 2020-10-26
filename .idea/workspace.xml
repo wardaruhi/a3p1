@@ -70,6 +70,7 @@
       <workItem from="1603685761025" duration="206000" />
       <workItem from="1603686048439" duration="171000" />
       <workItem from="1603686335790" duration="542000" />
+      <workItem from="1603687503233" duration="30000" />
     </task>
     <servers />
   </component>
@@ -85,10 +86,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="299" y="71" key="DBNavigator.ProjectSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603686853420" />
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1603686336472">
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1603687503992">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603686336472" />
+    <state x="477" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1603687503992" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
